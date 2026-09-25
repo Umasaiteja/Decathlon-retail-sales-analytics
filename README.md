@@ -10,7 +10,7 @@ Customer segments, gender, and retention
 
 ## Workbook
 
-Open https://github.com/Umasaiteja/Decathlon-retail-sales-analytics/blob/main/Decathlon_RetailAnalytics_Data_30000.xlsx in Microsoft Excel for the full analysis and dashboard. The source workbook contains 30,000 data records and five worksheets, including `Insights` and `Dashboard`.
+Open link https://github.com/Umasaiteja/Decathlon-retail-sales-analytics/blob/main/Decathlon_RetailAnalytics_Data_30000.xlsx in Microsoft Excel (Download Recommended) for the full analysis and dashboard. The source workbook contains 30,000 data records and five worksheets, including `Insights` and `Dashboard`.
 
 ## Tools and methods
 
